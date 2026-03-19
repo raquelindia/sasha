@@ -13,5 +13,5 @@ null,
 {"id":11,"expanded":true,"name":"BedroomMapDARK","order":8,"parentId":1,"scrollX":910.5,"scrollY":740.25},
 {"id":12,"expanded":false,"name":"Item Shop","order":13,"parentId":10,"scrollX":779.25,"scrollY":603,"quick":false},
 {"id":13,"expanded":false,"name":"Bar","order":14,"parentId":12,"scrollX":1199,"scrollY":790,"quick":false},
-{"id":14,"expanded":false,"name":"NewMap(TBD)","order":9,"parentId":1,"scrollX":910.5,"scrollY":587.25,"quick":false}
+{"id":14,"expanded":false,"name":"NewMap(TBD)","order":9,"parentId":1,"scrollX":910.5,"scrollY":654,"quick":false}
 ]
