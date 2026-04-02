@@ -1,10 +1,18 @@
 [
 null,
+<<<<<<< HEAD
 {"id":1,"expanded":true,"name":"SashaHome","order":1,"parentId":0,"scrollX":874.909090909091,"scrollY":506.72727272727275},
 {"id":2,"expanded":true,"name":"HospitalMap","order":2,"parentId":1,"scrollX":1037.3333333333333,"scrollY":744.6666666666666,"quick":false},
 {"id":3,"expanded":true,"name":"ChurchMap","order":3,"parentId":2,"scrollX":1302.5454545454545,"scrollY":1072.3636363636365,"quick":false},
 {"id":4,"expanded":true,"name":"Dream1","order":5,"parentId":1,"scrollX":1058.1818181818182,"scrollY":660.5454545454546,"quick":false},
 {"id":5,"expanded":false,"name":"CityMap","order":4,"parentId":2,"scrollX":1040.5714285714284,"scrollY":674.5714285714286,"quick":false},
+=======
+{"id":1,"expanded":true,"name":"SashaHome","order":1,"parentId":0,"scrollX":916.909090909091,"scrollY":515.4545454545455},
+{"id":2,"expanded":true,"name":"HospitalMap","order":2,"parentId":1,"scrollX":1095.6,"scrollY":807.5999999999999,"quick":false},
+{"id":3,"expanded":true,"name":"ChurchMap","order":3,"parentId":2,"scrollX":1429.6363636363637,"scrollY":826.3636363636364,"quick":false},
+{"id":4,"expanded":true,"name":"Dream1","order":5,"parentId":1,"scrollX":1057.7142857142856,"scrollY":660.8571428571428,"quick":false},
+{"id":5,"expanded":false,"name":"CityMap","order":4,"parentId":2,"scrollX":822.4,"scrollY":703.6,"quick":false},
+>>>>>>> 58b650b28079fda587bf57ed837a2f6c88a4a5b3
 {"id":6,"expanded":true,"name":"Dream2","order":6,"parentId":4,"scrollX":1054.2857142857142,"scrollY":739.7142857142857,"quick":false},
 {"id":7,"expanded":true,"name":"Dream3","order":7,"parentId":4,"scrollX":1040.5714285714284,"scrollY":674.5714285714286,"quick":false},
 {"id":8,"expanded":true,"name":"Dream4","order":10,"parentId":0,"scrollX":1040.5714285714284,"scrollY":765.4285714285713,"quick":false},
